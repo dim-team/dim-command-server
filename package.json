@@ -1,6 +1,6 @@
 {
   "name": "dim-command-server",
-  "version": "0.0.11",
+  "version": "0.0.12",
   "description": "dim server",
   "main": "index.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/JerroldLee/dim-command-server.git"
+    "url": "https://github.com/dim-team/dim-command-server.git"
   },
   "keywords": [
     "fis",
@@ -18,7 +18,7 @@
   "author": "Jerrold <lijiayouyj@163.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/JerroldLee/dim-command-server/issues"
+    "url": "https://github.com/dim-team/dim-command-server/issues"
   },
-  "homepage": "https://github.com/JerroldLee/dim-command-server"
+  "homepage": "https://github.com/dim-team/dim-command-server"
 }
